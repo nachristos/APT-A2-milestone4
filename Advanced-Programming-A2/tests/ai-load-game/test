@@ -1,0 +1,8 @@
+#!/bin/bash
+
+./qwirkle.exe < ./tests/ai-load-game/test.input > ./qwirkle.out
+if diff -w ./tests/ai-load-game/test.output ./qwirkle.out; then
+    echo "Test passed"
+else
+    echo "Test failed"
+fi

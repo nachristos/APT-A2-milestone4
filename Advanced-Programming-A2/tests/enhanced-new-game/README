@@ -1,0 +1,2 @@
+This tests validates the enhanced features are enabled when runtime flag --e is used.
+The enhanced features included are unicode tiles and tile colouring.

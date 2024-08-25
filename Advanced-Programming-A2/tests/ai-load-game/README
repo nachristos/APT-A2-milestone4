@@ -1,0 +1,2 @@
+Tests loading a saved AI game without declaring --ai arguments at runtime.
+This test also validates the AI player will replace a tile when there is no valid moves.

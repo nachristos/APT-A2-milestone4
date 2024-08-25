@@ -1,0 +1,2 @@
+Tests new game started with AI player 2 by runtime flag --ai
+This test also validates the AI player choses the move that will earn it the highest score.
